@@ -1,2 +1,2 @@
 # Python-Expert-Study
-PYthon Study - Expert
+Python Study - Expert
